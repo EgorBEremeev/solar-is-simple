@@ -1,5 +1,5 @@
 # solar-is-simple
-Simple Web-over-GIS service around Solar Energetics created during the [planet-balkan-hackathon](https://github.com/serbiancaseforspace/planet-balkan-hackathon).
+[Simple Web-over-GIS application around Solar Energetics](https://egorberemeev.users.earthengine.app/view/solar-is-simple) created during the [planet-balkan-hackathon](https://github.com/serbiancaseforspace/planet-balkan-hackathon).
 
 The initial brainstorm of the idea is archived [here](https://github.com/serbiancaseforspace/planet-balkan-hackathon/issues/5)
 
@@ -34,3 +34,8 @@ Script requires:
        - [Custom Overlays](https://developers.google.com/maps/documentation/javascript/customoverlays)
        - [Data Layer](https://developers.google.com/maps/documentation/javascript/datalayer)
        - [Heatmap Layer - google.maps.visualization library](https://developers.google.com/maps/documentation/javascript/heatmaplayer)
+       
+   # Deployed application
+   https://egorberemeev.users.earthengine.app/view/solar-is-simple
+   https://code.earthengine.google.com/c496e3748e94b5e5739786b1e902f76c
+   
